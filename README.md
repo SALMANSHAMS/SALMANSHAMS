@@ -18,7 +18,7 @@
 
 - 🔭 I build clean UIs, secure APIs, and automation workflows  
 - 🧪 Exploring: `MERN`, `Vue.js`, `SaaS`, `AI Tools`  
-- 💬 Ask me about: `JavaScript`, `Laravel`, `Make.com`, `Notion`, `Python`  
+- 💬 Ask me about: `JavaScript`, `Laravel`, `Make.com`, `Notion`, `N8N`, `Zapier`, `Python`  
 - ⚡ Fun Fact: I can automate your life—from docs to deployments
 
 ---
